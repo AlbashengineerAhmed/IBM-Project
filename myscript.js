@@ -1,7 +1,7 @@
 // This is a sample JavaScript script
-function sayHello() {
-  console.log("Hello, World!");
+function sayHello(ahmed) {
+  console.log(`Hello, ${ahmed}!`);
 }
 
 // Call the function
-sayHello();
+sayHello("Ahmed Mohamed");
